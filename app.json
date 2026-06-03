@@ -9,17 +9,17 @@
   "env": {
     "PREFIXE": {
       "description": "Préfixe utilisé pour les commandes du bot",
-      "value": ".",
+      "value": "-",
       "required": false
     },
     "NOM_OWNER": {
       "description": "Nom de l'Owner du bot",
-      "value": "Ainz",
+      "value": "ANOS",
       "required": false
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "25766486303",
       "required": true
     },
     "MODE": {
@@ -29,22 +29,22 @@
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "",
+      "value": "Ovl-MD_FLYwkk88_SESSION-ID",
       "required": true
     },
     "NOM_BOT": {
       "description": "Nom du bot",
-      "value": "🤖 OVL-MD BOT V2",
+      "value": "🤖 DARK-MD BOT V2",
       "required": false
     },
     "STICKER_PACK_NAME": {
       "description": "Nom du pack de stickers",
-      "value": "ᴏᴠʟ-ᴍᴅ-ᴠ𝟸",
+      "value": "DARK-ᴍᴅ-ᴠ𝟸",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Auteur du sticker",
-      "value": "ᴀɪɴᴢ🔅✨",
+      "value": "ᴀNOS🔅✨",
       "required": false
     }
   },
